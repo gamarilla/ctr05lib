@@ -6,13 +6,6 @@ This Library allows easy configuration and programming of Measurement Computing 
 
 You will still need to read the 9513 datasheet to understand the mode that you need.
 
-= Details =
-
-Currently only Mode "A" and Mode "O" are implemented, but it is very easy to add the other modes.
-
-Use Mode "A" as a simple counter to measure Frequencies.
-Use Mode "O" to measure Periods.
-
 I will provide examples in future commits. 
 
 = Contribution =
@@ -23,4 +16,3 @@ Please provide feedback and contribute with patches, examples and documentation 
 
 This library is released under Apache 2.0 License.
 Fell free to use this library in open source and commercial products.
-
